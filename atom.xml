@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Too@CD</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hx.fctoo.com/"/>
+  <updated>2018-01-24T04:42:34.000Z</updated>
+  <id>http://hx.fctoo.com/</id>
+  
+  <author>
+    <name>Too</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo blog launch @2017</title>
+    <link href="http://hx.fctoo.com/2017/02/08/blog-launch/"/>
+    <id>http://hx.fctoo.com/2017/02/08/blog-launch/</id>
+    <published>2017-02-08T03:28:42.000Z</published>
+    <updated>2018-01-24T04:42:34.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;为什么会有-Too-CD？&quot;&gt;&lt;a href=&quot;#为什么会有-Too-CD？&quot; class=&quot;headerlink&quot; title=&quot;为什么会有 Too@CD？&quot;&gt;&lt;/a&gt;为什么会有 Too@CD？&lt;/h1&gt;&lt;h2 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://hx.fctoo.com/tags/hexo/"/>
+    
+      <category term="log" scheme="http://hx.fctoo.com/tags/log/"/>
+    
+  </entry>
+  
+</feed>
