@@ -117,9 +117,9 @@
     </summary>
     
     
-      <category term="log" scheme="http://hx.fctoo.com/tags/log/"/>
-    
       <category term="hexo" scheme="http://hx.fctoo.com/tags/hexo/"/>
+    
+      <category term="log" scheme="http://hx.fctoo.com/tags/log/"/>
     
   </entry>
   
