@@ -1706,7 +1706,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #ff85af;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2954,7 +2954,7 @@ a.search-result {
   cursor: pointer;
   outline: none;
   color: #555;
-  display: inline-block;
+  display: block;
   font-size: 12px;
   border: 0px solid #f4f4ff;
   text-decoration: none;
